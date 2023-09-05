@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Virkud</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 📫 How to reach me **abc@gmail.com**
+- 📫 How to reach me **vsvirkud01@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+<!--- 📄 Know about my experiences [resume link](resume link)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
